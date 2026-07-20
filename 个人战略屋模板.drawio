@@ -67,6 +67,9 @@
         <mxCell id="V14V9XIwsv7DsUciRDNu-5" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#111111&quot; face=&quot;PingFang SC&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;输入：每周坚持&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#111111&quot; face=&quot;PingFang SC&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;输出：每周坚持输出学习内容&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="90" width="290" x="720" y="715" as="geometry" />
         </mxCell>
+        <mxCell id="V14V9XIwsv7DsUciRDNu-6" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#111111&quot; face=&quot;PingFang SC&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;每年1W用于个人能力提升&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#111111&quot; face=&quot;PingFang SC&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;输出：每周坚持输出学习内容&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="90" width="290" x="1110" y="728" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
