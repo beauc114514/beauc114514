@@ -49,7 +49,7 @@
         <mxCell id="lbl-support" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=PingFang SC;fontSize=21;fontStyle=1;fontColor=#5473B7;" value="落地保障" vertex="1">
           <mxGeometry height="94" width="105" x="160" y="724" as="geometry" />
         </mxCell>
-        <mxCell id="support" parent="1" style="rounded=0;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=14;fillColor=#FFFFFF;strokeColor=#1F1F1F;strokeWidth=2;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;div style=&quot;text-align:left;font-size:17px;line-height:1.4;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="support" parent="1" style="rounded=0;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=14;fillColor=#FFFFFF;strokeColor=#1F1F1F;strokeWidth=2;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value=" " vertex="1">
           <mxGeometry height="94" width="1130" x="270" y="724" as="geometry" />
         </mxCell>
         <mxCell id="V14V9XIwsv7DsUciRDNu-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=PingFang SC;fontSize=21;fontStyle=1;fontColor=#5473B7;" value="效率&lt;div&gt;保障&lt;/div&gt;" vertex="1">
