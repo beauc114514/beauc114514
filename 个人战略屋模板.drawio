@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="roof" parent="1" style="shape=triangle;direction=north;html=1;whiteSpace=wrap;align=center;verticalAlign=bottom;spacingBottom=17;fillColor=#5473B7;strokeColor=#334E81;strokeWidth=1.5;fontColor=#FFFFFF;fontFamily=PingFang SC;fontSize=20;" value="&lt;div style=&quot;font-size:23px;font-weight:700;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size:23px;font-weight:700;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size:23px;font-weight:700;&quot;&gt;使命：&lt;/div&gt;&lt;div style=&quot;font-size:23px;font-weight:700;margin-top:5px;&quot;&gt;愿景：2030年成为具备端到端产品交付能力的核心人才&lt;/div&gt;" vertex="1">
+        <mxCell id="roof" parent="1" style="shape=triangle;direction=north;html=1;whiteSpace=wrap;align=center;verticalAlign=bottom;spacingBottom=17;fillColor=#5473B7;strokeColor=#334E81;strokeWidth=1.5;fontColor=#FFFFFF;fontFamily=PingFang SC;fontSize=20;" value="&lt;div style=&quot;font-size:23px;font-weight:700;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="108" width="1130" x="270" y="110" as="geometry" />
         </mxCell>
         <mxCell id="lbl-goal" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=PingFang SC;fontSize=21;fontStyle=1;fontColor=#5473B7;" value="战略目标" vertex="1">
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="support-funds-text" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;strokeColor=none;fillColor=none;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;div style=&quot;font-size:17px;line-height:1.42;&quot;&gt;&lt;b&gt;成长：&lt;/b&gt;每年预算不少于10k&lt;br&gt;&lt;b&gt;健康：&lt;/b&gt;每年预算不少于5k&lt;br&gt;&lt;b&gt;形象：&lt;/b&gt;每年预算不少于5k&lt;br&gt;&lt;b&gt;储蓄：&lt;/b&gt;每月稳定储蓄3-5k&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="285" x="1100" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="iMj8zW6fsfCOx937pCJI-1" parent="1" style="text;whiteSpace=wrap;fillColor=none;fontColor=#FFFFFF;fontStyle=1;align=center;fontSize=25;horizontal=1;spacingTop=2;spacing=4;" value="使命：让技术真正服务于人的创造力&#xa;愿景：2030年成为具备端到端产品交付能力的核心人才" vertex="1">
+          <mxGeometry height="110" width="637.5" x="526" y="147" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
