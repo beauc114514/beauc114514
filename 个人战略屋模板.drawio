@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="roof" parent="1" style="shape=triangle;direction=north;html=1;whiteSpace=wrap;align=center;verticalAlign=bottom;spacingBottom=17;fillColor=#5473B7;strokeColor=#334E81;strokeWidth=1.5;fontColor=#FFFFFF;fontFamily=PingFang SC;fontSize=20;" value="&lt;div style=&quot;font-size:23px;font-weight:700;&quot;&gt;使命：&amp;nbsp;[我希望为自己／他人／世界创造的价值]&lt;/div&gt;&lt;div style=&quot;font-size:23px;font-weight:700;margin-top:5px;&quot;&gt;愿景：&amp;nbsp;[目标年份] 年成为 [理想状态／角色]&lt;/div&gt;" vertex="1">
+        <mxCell id="roof" parent="1" style="shape=triangle;direction=north;html=1;whiteSpace=wrap;align=center;verticalAlign=bottom;spacingBottom=17;fillColor=#5473B7;strokeColor=#334E81;strokeWidth=1.5;fontColor=#FFFFFF;fontFamily=PingFang SC;fontSize=20;" value="&lt;div style=&quot;font-size:23px;font-weight:700;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size:23px;font-weight:700;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size:23px;font-weight:700;&quot;&gt;使命：&lt;/div&gt;&lt;div style=&quot;font-size:23px;font-weight:700;margin-top:5px;&quot;&gt;愿景：2030年成为技术 × 产品型核心人才&lt;/div&gt;" vertex="1">
           <mxGeometry height="108" width="1130" x="270" y="110" as="geometry" />
         </mxCell>
         <mxCell id="lbl-goal" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=PingFang SC;fontSize=21;fontStyle=1;fontColor=#5473B7;" value="战略目标" vertex="1">
