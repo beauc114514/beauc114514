@@ -8,70 +8,70 @@
           <mxGeometry height="108" width="1130" x="270" y="110" as="geometry" />
         </mxCell>
         <mxCell id="lbl-goal" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=PingFang SC;fontSize=21;fontStyle=1;fontColor=#5473B7;" value="战略目标" vertex="1">
-          <mxGeometry height="78" width="105" x="160" y="220" as="geometry" />
+          <mxGeometry height="78" width="105" x="160" y="218" as="geometry" />
         </mxCell>
         <mxCell id="goal" parent="1" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=#FFFFFF;strokeColor=#1F1F1F;strokeWidth=1.5;fontColor=#5473B7;fontFamily=PingFang SC;fontSize=22;" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;成为复合型核心人才 = 业务洞察 × 技术创新 × 快速交付 × 组织影响&lt;/b&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="78" width="1130" x="270" y="220" as="geometry" />
+          <mxGeometry height="78" width="1130" x="270" y="218" as="geometry" />
         </mxCell>
         <mxCell id="lbl-fields" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=PingFang SC;fontSize=21;fontStyle=1;fontColor=#5473B7;" value="主要战场" vertex="1">
-          <mxGeometry height="182" width="105" x="160" y="301" as="geometry" />
+          <mxGeometry height="90" width="105" x="160" y="296" as="geometry" />
         </mxCell>
         <mxCell id="field1" parent="1" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=7;fillColor=#FFFFFF;strokeColor=#1F1F1F;strokeWidth=1.25;fontColor=#111111;fontFamily=PingFang SC;fontSize=15;" value="&lt;b style=&quot;font-size: 18px; color: rgb(84, 115, 183);&quot;&gt;战场一｜[ 业务产品]&lt;/b&gt;&lt;br align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot; style=&quot;font-size:14px;line-height:1.25;&quot;&gt;• 理论： [需要系统学习的知识]&lt;br&gt;• 实践： [项目／作品／挑战]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="564" x="270" y="301" as="geometry" />
+          <mxGeometry height="90" width="282.5" x="270" y="296" as="geometry" />
         </mxCell>
         <mxCell id="field2" parent="1" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=7;fillColor=#FFFFFF;strokeColor=#1F1F1F;strokeWidth=1.25;fontColor=#111111;fontFamily=PingFang SC;fontSize=15;" value="&lt;b style=&quot;font-size: 18px; color: rgb(84, 115, 183);&quot;&gt;战场二｜[技术创新]&lt;/b&gt;&lt;br align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot; style=&quot;font-size:14px;line-height:1.25;&quot;&gt;• 理论： [需要系统学习的知识]&lt;br&gt;• 实践： [项目／作品／挑战]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="564" x="836" y="301" as="geometry" />
+          <mxGeometry height="90" width="282.5" x="552.5" y="296" as="geometry" />
         </mxCell>
         <mxCell id="field3" parent="1" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=7;fillColor=#FFFFFF;strokeColor=#1F1F1F;strokeWidth=1.25;fontColor=#111111;fontFamily=PingFang SC;fontSize=15;" value="&lt;b style=&quot;font-size: 18px; color: rgb(84, 115, 183);&quot;&gt;战场三｜[组织影响]&lt;/b&gt;&lt;br align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot; style=&quot;font-size:14px;line-height:1.25;&quot;&gt;• 理论： [需要系统学习的知识]&lt;br&gt;• 实践： [项目／作品／挑战]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="564" x="270" y="393" as="geometry" />
+          <mxGeometry height="90" width="282.5" x="835" y="296" as="geometry" />
         </mxCell>
         <mxCell id="field4" parent="1" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=7;fillColor=#FFFFFF;strokeColor=#1F1F1F;strokeWidth=1.25;fontColor=#111111;fontFamily=PingFang SC;fontSize=15;" value="&lt;b style=&quot;font-size: 18px; color: rgb(84, 115, 183);&quot;&gt;战场四｜[快速交付]&lt;/b&gt;&lt;br align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot; style=&quot;font-size:14px;line-height:1.25;&quot;&gt;• 理论： [需要系统学习的知识]&lt;br&gt;• 实践： [项目／作品／挑战]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="564" x="836" y="393" as="geometry" />
+          <mxGeometry height="90" width="282.5" x="1117.5" y="296" as="geometry" />
         </mxCell>
         <mxCell id="lbl-win" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=PingFang SC;fontSize=21;fontStyle=1;fontColor=#5473B7;" value="如何制胜" vertex="1">
-          <mxGeometry height="140" width="105" x="160" y="486" as="geometry" />
+          <mxGeometry height="140" width="105" x="160" y="386" as="geometry" />
         </mxCell>
         <mxCell id="win1" parent="1" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=8;fillColor=#FFFFFF;strokeColor=#1F1F1F;strokeWidth=1.5;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;b style=&quot;font-size:21px;color:#5473B7;&quot;&gt;能力、效率、资源&lt;/b&gt;&lt;div align=&quot;left&quot; style=&quot;font-size:17px;line-height:1.4;margin-top:8px;&quot;&gt;• 能力： [关键能力组合]&lt;br&gt;• 效率： [时间／精力管理方式]&lt;br&gt;• 资源： [人脉／资金／工具／机会]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="375" x="270" y="486" as="geometry" />
+          <mxGeometry height="140" width="375" x="270" y="386" as="geometry" />
         </mxCell>
         <mxCell id="win2" parent="1" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=8;fillColor=#FFFFFF;strokeColor=#1F1F1F;strokeWidth=1.5;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;b style=&quot;font-size:21px;color:#5473B7;&quot;&gt;个人系统&lt;/b&gt;&lt;div align=&quot;left&quot; style=&quot;font-size:17px;line-height:1.38;margin-top:8px;&quot;&gt;• 思维框架系统　• 自我管理系统&lt;br&gt;• 决策系统　　　• 学习系统&lt;br&gt;• 复盘系统　　　• 财务系统&lt;br&gt;• 关系系统&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="375" x="647" y="486" as="geometry" />
+          <mxGeometry height="140" width="375" x="647" y="386" as="geometry" />
         </mxCell>
         <mxCell id="win3" parent="1" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=8;fillColor=#FFFFFF;strokeColor=#1F1F1F;strokeWidth=1.5;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;b style=&quot;font-size:21px;color:#5473B7;&quot;&gt;基本功与个人素质&lt;/b&gt;&lt;div align=&quot;left&quot; style=&quot;font-size:17px;line-height:1.4;margin-top:8px;&quot;&gt;• 基本功： [专业根基]&lt;br&gt;• 驱动力： [好奇／韧性／行动]&lt;br&gt;• 信念： [长期主义／利他]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="375" x="1025" y="486" as="geometry" />
+          <mxGeometry height="140" width="375" x="1025" y="386" as="geometry" />
         </mxCell>
         <mxCell id="lbl-year" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=PingFang SC;fontSize=21;fontStyle=1;fontColor=#5473B7;" value="[年份]&lt;br&gt;必赢之战" vertex="1">
-          <mxGeometry height="170" width="105" x="160" y="629" as="geometry" />
+          <mxGeometry height="170" width="105" x="160" y="526" as="geometry" />
         </mxCell>
         <mxCell id="battle1" parent="1" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=10;fillColor=#FFFFFF;strokeColor=#1F1F1F;strokeWidth=1.5;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;b style=&quot;font-size:22px;color:#5473B7;&quot;&gt;必赢之战一｜[关键突破]&lt;/b&gt;&lt;div align=&quot;left&quot; style=&quot;font-size:17px;line-height:1.4;margin-top:8px;&quot;&gt;• 目标： [可衡量的结果]&lt;br&gt;• 关键动作： [行动 1]；[行动 2]；[行动 3]&lt;br&gt;• 资源： [需要投入或争取的资源]&lt;br&gt;• 里程碑： [时间节点]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="563" x="270" y="629" as="geometry" />
+          <mxGeometry height="170" width="563" x="270" y="526" as="geometry" />
         </mxCell>
         <mxCell id="battle2" parent="1" style="rounded=0;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;spacing=10;fillColor=#FFFFFF;strokeColor=#1F1F1F;strokeWidth=1.5;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;b style=&quot;font-size:22px;color:#5473B7;&quot;&gt;必赢之战二｜[关键突破]&lt;/b&gt;&lt;div align=&quot;left&quot; style=&quot;font-size:17px;line-height:1.4;margin-top:8px;&quot;&gt;• 目标： [可衡量的结果]&lt;br&gt;• 关键动作： [行动 1]；[行动 2]；[行动 3]&lt;br&gt;• 资源： [需要投入或争取的资源]&lt;br&gt;• 里程碑： [时间节点]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="170" width="563" x="837" y="629" as="geometry" />
+          <mxGeometry height="170" width="563" x="837" y="526" as="geometry" />
         </mxCell>
         <mxCell id="lbl-support" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=PingFang SC;fontSize=21;fontStyle=1;fontColor=#5473B7;" value="落地保障" vertex="1">
-          <mxGeometry height="112" width="105" x="160" y="802" as="geometry" />
+          <mxGeometry height="112" width="105" x="160" y="696" as="geometry" />
         </mxCell>
         <mxCell id="support" parent="1" style="rounded=0;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=14;fillColor=#FFFFFF;strokeColor=#1F1F1F;strokeWidth=2;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value=" " vertex="1">
-          <mxGeometry height="112" width="1130" x="270" y="802" as="geometry" />
+          <mxGeometry height="112" width="1130" x="270" y="696" as="geometry" />
         </mxCell>
         <mxCell id="V14V9XIwsv7DsUciRDNu-1" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=PingFang SC;fontSize=21;fontStyle=1;fontColor=#5473B7;" value="效率&lt;div&gt;保障&lt;/div&gt;" vertex="1">
-          <mxGeometry height="94" width="55" x="280" y="811" as="geometry" />
+          <mxGeometry height="94" width="55" x="280" y="705" as="geometry" />
         </mxCell>
         <mxCell id="V14V9XIwsv7DsUciRDNu-2" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=PingFang SC;fontSize=21;fontStyle=1;fontColor=#5473B7;" value="学习&lt;br&gt;&lt;div&gt;保障&lt;/div&gt;" vertex="1">
-          <mxGeometry height="94" width="55" x="660" y="811" as="geometry" />
+          <mxGeometry height="94" width="55" x="660" y="705" as="geometry" />
         </mxCell>
         <mxCell id="V14V9XIwsv7DsUciRDNu-3" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=PingFang SC;fontSize=21;fontStyle=1;fontColor=#5473B7;" value="&lt;div&gt;资金&lt;/div&gt;&lt;div&gt;保障&lt;/div&gt;" vertex="1">
-          <mxGeometry height="94" width="55" x="1040" y="811" as="geometry" />
+          <mxGeometry height="94" width="55" x="1040" y="705" as="geometry" />
         </mxCell>
         <mxCell id="support-efficiency-text" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;strokeColor=none;fillColor=none;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;div style=&quot;font-size:17px;line-height:1.42;&quot;&gt;&lt;b&gt;时间：&lt;/b&gt;聚焦高价值事项，减少无意识娱乐&lt;br&gt;&lt;b&gt;睡眠：&lt;/b&gt;稳定作息，每天睡眠8小时&lt;br&gt;&lt;b&gt;饮食：&lt;/b&gt;三餐规律，膳食果蔬蛋白质补剂&lt;br&gt;&lt;b&gt;运动：&lt;/b&gt;每周规律运动，改善体能+体态&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="315" x="340" y="808" as="geometry" />
+          <mxGeometry height="100" width="315" x="340" y="702" as="geometry" />
         </mxCell>
         <mxCell id="support-learning-text" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;strokeColor=none;fillColor=none;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;div style=&quot;font-size:17px;line-height:1.42;&quot;&gt;&lt;b&gt;输出：&lt;/b&gt;每周坚持输出学习内容&lt;br&gt;&lt;b&gt;技能：&lt;/b&gt;开展专项刻意练习&lt;br&gt;&lt;b&gt;复盘：&lt;/b&gt;定期复盘，持续修正方法&lt;br&gt;&lt;b&gt;决策：&lt;/b&gt;重大决策考虑长期价值和复利&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="315" x="720" y="808" as="geometry" />
+          <mxGeometry height="100" width="315" x="720" y="702" as="geometry" />
         </mxCell>
         <mxCell id="support-funds-text" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;strokeColor=none;fillColor=none;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;div style=&quot;font-size:17px;line-height:1.42;&quot;&gt;&lt;b&gt;成长：&lt;/b&gt;每年预算不少于10k&lt;br&gt;&lt;b&gt;健康：&lt;/b&gt;每年预算不少于5k&lt;br&gt;&lt;b&gt;形象：&lt;/b&gt;每年预算不少于5k&lt;br&gt;&lt;b&gt;储蓄：&lt;/b&gt;每月稳定储蓄3-5k&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="285" x="1100" y="808" as="geometry" />
+          <mxGeometry height="100" width="285" x="1100" y="702" as="geometry" />
         </mxCell>
         <mxCell id="iMj8zW6fsfCOx937pCJI-1" parent="1" style="text;whiteSpace=wrap;fillColor=none;fontColor=#FFFFFF;fontStyle=1;align=center;fontSize=25;horizontal=1;spacingTop=2;spacing=4;" value="使命：让技术真正服务于人的创造力&#xa;愿景：2030年成为具备端到端产品交付能力的核心人才" vertex="1">
           <mxGeometry height="78" width="637.5" x="526" y="142" as="geometry" />
