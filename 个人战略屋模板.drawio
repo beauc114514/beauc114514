@@ -80,13 +80,13 @@
           <mxGeometry height="94" width="55" x="1040" y="755" as="geometry" />
         </mxCell>
         <mxCell id="support-efficiency-text" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;strokeColor=none;fillColor=none;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;div style=&quot;font-size:17px;line-height:1.42;&quot;&gt;&lt;b&gt;时间：&lt;/b&gt;聚焦高价值事项，减少无意识娱乐&lt;br&gt;&lt;b&gt;睡眠：&lt;/b&gt;稳定作息，每天睡眠8小时&lt;br&gt;&lt;b&gt;饮食：&lt;/b&gt;三餐规律，膳食果蔬蛋白质补剂&lt;br&gt;&lt;b&gt;运动：&lt;/b&gt;每周规律运动，改善体能+体态&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="315" x="340" y="752" as="geometry" />
+          <mxGeometry height="100" width="315" x="350" y="752" as="geometry" />
         </mxCell>
         <mxCell id="support-learning-text" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;strokeColor=none;fillColor=none;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;div style=&quot;font-size:17px;line-height:1.42;&quot;&gt;&lt;b&gt;输出：&lt;/b&gt;每周坚持输出学习内容&lt;br&gt;&lt;b&gt;技能：&lt;/b&gt;开展专项刻意练习&lt;br&gt;&lt;b&gt;复盘：&lt;/b&gt;定期复盘，持续修正方法&lt;br&gt;&lt;b&gt;决策：&lt;/b&gt;重大决策考虑长期价值和复利&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="315" x="720" y="752" as="geometry" />
+          <mxGeometry height="100" width="285" x="740" y="752" as="geometry" />
         </mxCell>
         <mxCell id="support-funds-text" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;spacing=0;strokeColor=none;fillColor=none;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;div style=&quot;font-size:17px;line-height:1.42;&quot;&gt;&lt;b&gt;成长：&lt;/b&gt;每年预算不少于10k&lt;br&gt;&lt;b&gt;健康：&lt;/b&gt;每年预算不少于5k&lt;br&gt;&lt;b&gt;形象：&lt;/b&gt;每年预算不少于5k&lt;br&gt;&lt;b&gt;储蓄：&lt;/b&gt;每月稳定储蓄3-5k&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="285" x="1100" y="752" as="geometry" />
+          <mxGeometry height="100" width="285" x="1115" y="752" as="geometry" />
         </mxCell>
         <mxCell id="iMj8zW6fsfCOx937pCJI-1" parent="1" style="text;whiteSpace=wrap;fillColor=none;fontColor=#FFFFFF;fontStyle=1;align=center;fontSize=25;horizontal=1;spacingTop=2;spacing=4;" value="使命：让技术真正服务于人的创造力&#xa;愿景：2030年成为具备端到端产品交付能力的核心人才" vertex="1">
           <mxGeometry height="78" width="637.5" x="526" y="142" as="geometry" />
