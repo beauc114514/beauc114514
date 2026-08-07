@@ -56,13 +56,13 @@
           <mxGeometry height="140" width="376.6666" x="1023.3334" y="436" as="geometry" />
         </mxCell>
         <mxCell id="win1-title" parent="1" style="text;html=1;align=center;verticalAlign=middle;spacing=0;strokeColor=none;fillColor=none;fontColor=#5473B7;fontFamily=PingFang SC;fontSize=21;fontStyle=1;" value="学习与认知" vertex="1">
-          <mxGeometry height="26" width="376.6667" x="270" y="448" as="geometry" />
+          <mxGeometry height="26" width="376.6667" x="270" y="456" as="geometry" />
         </mxCell>
         <mxCell id="win2-title" parent="1" style="text;html=1;align=center;verticalAlign=middle;spacing=0;strokeColor=none;fillColor=none;fontColor=#5473B7;fontFamily=PingFang SC;fontSize=21;fontStyle=1;" value="实践与闭环" vertex="1">
-          <mxGeometry height="26" width="376.6667" x="646.6667" y="448" as="geometry" />
+          <mxGeometry height="26" width="376.6667" x="646.6667" y="456" as="geometry" />
         </mxCell>
         <mxCell id="win3-title" parent="1" style="text;html=1;align=center;verticalAlign=middle;spacing=0;strokeColor=none;fillColor=#FFFFFF;fontColor=#5473B7;fontFamily=PingFang SC;fontSize=21;fontStyle=1;" value="积累与复利" vertex="1">
-          <mxGeometry height="26" width="376.6666" x="1023.3334" y="448" as="geometry" />
+          <mxGeometry height="26" width="376.6666" x="1023.3334" y="456" as="geometry" />
         </mxCell>
         <mxCell id="win1-body" parent="1" style="text;html=1;align=left;verticalAlign=top;spacing=0;strokeColor=none;fillColor=none;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;div style=&quot;font-size:17px;line-height:24px;&quot;&gt;• &lt;b&gt;广度：&lt;/b&gt;跨域学习，前沿技术，多职能视角&lt;br&gt;• &lt;b&gt;深度：&lt;/b&gt;最佳实践，借假修真，追根溯源&lt;/div&gt;" vertex="1">
           <mxGeometry height="78" width="340" x="288.33" y="498" as="geometry" />
