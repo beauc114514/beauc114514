@@ -40,7 +40,7 @@
         <mxCell id="field2-body" parent="1" style="text;html=1;align=left;verticalAlign=middle;spacing=0;strokeColor=none;fillColor=none;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;div style=&quot;font-size:17px;line-height:24px;&quot;&gt;• &lt;b&gt;理论：&lt;/b&gt;全栈知识和前沿技术&lt;br&gt;• &lt;b&gt;实践：&lt;/b&gt;技术探索，快速验证，端到端落地&lt;/div&gt;" vertex="1">
           <mxGeometry height="54" width="340" x="665" y="349" as="geometry" />
         </mxCell>
-        <mxCell id="field3-body" parent="1" style="text;html=1;align=left;verticalAlign=middle;spacing=0;strokeColor=none;fillColor=none;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;div style=&quot;font-size:17px;line-height:24px;&quot;&gt;• &lt;b&gt;理论：&lt;/b&gt;组织行为学，沟通与表达&lt;br&gt;• &lt;b&gt;实践：&lt;/b&gt;积极主动，&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(17, 17, 17), rgb(223, 223, 223));&quot;&gt;跨团队协同，推动闭环&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="field3-body" parent="1" style="text;html=1;align=left;verticalAlign=middle;spacing=0;strokeColor=none;fillColor=none;fontColor=#111111;fontFamily=PingFang SC;fontSize=17;" value="&lt;div style=&quot;font-size:17px;line-height:24px;&quot;&gt;• &lt;b&gt;理论：&lt;/b&gt;组织行为学，逻辑学，沟通表达技巧&lt;br&gt;• &lt;b&gt;实践：&lt;/b&gt;积极主动，&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(17, 17, 17), rgb(223, 223, 223));&quot;&gt;跨团队协同，推动闭环&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="54" width="340" x="1042" y="349" as="geometry" />
         </mxCell>
         <mxCell id="lbl-win" parent="1" style="text;html=1;align=center;verticalAlign=middle;fontFamily=PingFang SC;fontSize=21;fontStyle=1;fontColor=#5473B7;" value="如何制胜" vertex="1">
